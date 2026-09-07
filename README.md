@@ -1,14 +1,26 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ing.%20David%20Morales&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=62&descAlign=50" width="100%" />
+</p>
+
 # 💫 About Me
 
 👋 **¡Hola! Soy Ing. David Morales**  
 Ingeniero en Tecnologías de la Información apasionado por el desarrollo de software, la creación de aplicaciones móviles y la resolución de problemas complejos.
 
-* 📱 **Desarrollador Móvil:** Cuento con un catálogo de **7 aplicaciones publicadas** en la Google Play Store.
-* 💻 **Especialista Full Stack & Mobile:** Amplio dominio en ecosistemas **Java**, **C# / .NET**, **PHP/Laravel** y tecnologías web modernas.
-* 🎯 **Intereses Principales:** Desarrollo Web, Aplicaciones Móviles, Software de Escritorio, Inteligencia Artificial e Internet de las Cosas (IoT).
-* 🚀 **En constante aprendizaje:** Con mentalidad de crecimiento, orientado al trabajo colaborativo y buscando aportar valor en proyectos desafiantes.
+| ⚡ En resumen | |
+| :--- | :--- |
+| 🎓 **Título:** | Ing. en Tecnologías de la Información |
+| 💼 **Rol Principal:** | Full Stack & Mobile Developer |
+| 📱 **Google Play:** | **7 aplicaciones activas** y publicadas |
+| 🛠️ **Stack Principal:** | C# / .NET, Java, PHP (Laravel), React, SQL Server |
+| 📍 **Ubicación:** | México 🇲🇽 |
 
-📫 **¿Te interesa colaborar o conocer más sobre mi trabajo?** ¡Conéctate conmigo!
+---
+
+### 🎯 Actualmente...
+- 🔭 **Desarrollando:** Soluciones móviles y APIs REST escalables.
+- 🌱 **Especializándome:** En arquitectura limpia con **.NET MAUI**, **Laravel** y entornos **Web3 / AI**.
+- 💬 **Pregúntame sobre:** Desarrollo Android, Java, C#, PHP, integraciones de bases de datos y IoT con Arduino.
 
 ---
 
@@ -29,16 +41,6 @@ Ingeniero en Tecnologías de la Información apasionado por el desarrollo de sof
 | **TrStreamDeck - MacroControl Mx** | Control remoto de atajos de teclado y macros para PC desde dispositivos Android. | `Java` `Android SDK` `Sockets` | [<img src="https://img.shields.io/badge/Google_Play-412991?style=flat&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.companyname.trstreamdeck) |
 | **Tr-Barber Mx** | Sistema de gestión de citas, localización y programa de recompensas para barberías. | `Java` `Android SDK` `Maps API` | [<img src="https://img.shields.io/badge/Google_Play-412991?style=flat&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.companyname.tr_barbermx) |
 | **Linterna Agitable** | Utilidad para encender y apagar la linterna mediante gestos utilizando el acelerómetro del dispositivo. | `Java` `Android SDK` `Hardware Sensors` | [<img src="https://img.shields.io/badge/Google_Play-412991?style=flat&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.companyname.linternatrandroid) |
-
----
-
-## 🌐 Contacto & Redes
-[![Google Play](https://img.shields.io/badge/Google%20Play-412991?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6879859713775583628&hl=es_MX)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@TrAndroid)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Tr-Android#2525)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/daviid_danger)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@tr_android)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/neo_danger)
 
 ---
 
@@ -84,6 +86,16 @@ Ingeniero en Tecnologías de la Información apasionado por el desarrollo de sof
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 🌐 Contacto & Redes
+[![Google Play](https://img.shields.io/badge/Google%20Play-412991?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6879859713775583628&hl=es_MX)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@TrAndroid)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Tr-Android#2525)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/daviid_danger)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@tr_android)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/neo_danger)
 
 ---
 
