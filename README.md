@@ -3,7 +3,7 @@
 👋 **¡Hola! Soy Ing. David Morales**  
 Ingeniero en Tecnologías de la Información apasionado por el desarrollo de software, la creación de aplicaciones móviles y la resolución de problemas complejos.
 
-* 📱 **Desarrollador Android:** Cuento con un catálogo de aplicaciones publicadas en Google Play Store.
+* 📱 **Desarrollador Android:** Cuento con un catálogo de **7 aplicaciones publicadas** en la Google Play Store.
 * 💻 **Especialista Backend & Desktop:** Enfocado principalmente en el ecosistema **Java** y **C# / .NET**.
 * 🎯 **Intereses Principales:** Desarrollo Web, Aplicaciones Móviles, Software de Escritorio, Inteligencia Artificial e Internet de las Cosas (IoT).
 * 🚀 **En constante aprendizaje:** Con mentalidad de crecimiento, orientado al trabajo colaborativo y buscando aportar valor en proyectos desafiantes.
@@ -15,10 +15,20 @@ Ingeniero en Tecnologías de la Información apasionado por el desarrollo de sof
 ## 📱 Publicaciones en Google Play
 
 <a href="https://play.google.com/store/apps/dev?id=6879859713775583628&hl=es_MX" target="_blank">
-  <img src="https://img.shields.io/badge/Google_Play-Ver_Mis_Aplicaciones-412991?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Developer Page" />
+  <img src="https://img.shields.io/badge/Google_Play-Ver_Perfil_de_Desarrollador-412991?style=for-the-badge&logo=google-play&logoColor=white" alt="Perfil de Desarrollador Google Play" />
 </a>
 
-> 💡 *Haz clic en el botón de arriba para explorar mis aplicaciones Android publicadas en la tienda oficial.*
+<br><br>
+
+| App | Descripción | Tech Stack | Enlace |
+| :--- | :--- | :--- | :---: |
+| **Tr-Mexurbano** | Plataforma comunitaria y chats en tiempo real para usuarios del transporte público (Metro CDMX, Suburbano, Metrobús). | `Java` `Android SDK` `Realtime API` | [<img src="https://img.shields.io/badge/Google_Play-412991?style=flat&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.trandroid.metro_cdmx_chat) |
+| **Tr Mensajes Directos** | Inicia conversaciones directas en WhatsApp, WhatsApp Business y Telegram sin guardar el contacto. | `Java` `Android SDK` `SQLite` | [<img src="https://img.shields.io/badge/Google_Play-412991?style=flat&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.trakdmy.trsendmessage) |
+| **Tr ClipBoard Sync** | Sincronización e historial del portapapeles entre Android y Windows en tiempo real. | `C#` `Xamarin` `Sockets` | [<img src="https://img.shields.io/badge/Google_Play-412991?style=flat&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.companyname.tr_clipboardsync) |
+| **Imprimir imagen en 4 hojas PDF** | Herramienta para dividir imágenes, rotarlas y convertirlas en pósters impresos en formato PDF. | `Java` `Android SDK` `PDF Engine` | [<img src="https://img.shields.io/badge/Google_Play-412991?style=flat&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.companyname.crearposter) |
+| **TrStreamDeck - MacroControl Mx** | Control remoto de atajos de teclado y macros para PC desde dispositivos Android. | `Java` `Android SDK` `Sockets` | [<img src="https://img.shields.io/badge/Google_Play-412991?style=flat&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.companyname.trstreamdeck) |
+| **Tr-Barber Mx** | Sistema de gestión de citas, localización y programa de recompensas para barberías. | `Java` `Android SDK` `Maps API` | [<img src="https://img.shields.io/badge/Google_Play-412991?style=flat&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.companyname.tr_barbermx) |
+| **Linterna Agitable** | Utilidad para encender y apagar la linterna mediante gestos utilizando el acelerómetro del dispositivo. | `Java` `Android SDK` `Hardware Sensors` | [<img src="https://img.shields.io/badge/Google_Play-412991?style=flat&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.companyname.linternatrandroid) |
 
 ---
 
