@@ -3,8 +3,8 @@
 👋 **¡Hola! Soy Ing. David Morales**  
 Ingeniero en Tecnologías de la Información apasionado por el desarrollo de software, la creación de aplicaciones móviles y la resolución de problemas complejos.
 
-* 📱 **Desarrollador Android:** Cuento con un catálogo de **7 aplicaciones publicadas** en la Google Play Store.
-* 💻 **Especialista Backend & Desktop:** Enfocado principalmente en el ecosistema **Java** y **C# / .NET**.
+* 📱 **Desarrollador Móvil:** Cuento con un catálogo de **7 aplicaciones publicadas** en la Google Play Store.
+* 💻 **Especialista Full Stack & Mobile:** Amplio dominio en ecosistemas **Java**, **C# / .NET**, **PHP/Laravel** y tecnologías web modernas.
 * 🎯 **Intereses Principales:** Desarrollo Web, Aplicaciones Móviles, Software de Escritorio, Inteligencia Artificial e Internet de las Cosas (IoT).
 * 🚀 **En constante aprendizaje:** Con mentalidad de crecimiento, orientado al trabajo colaborativo y buscando aportar valor en proyectos desafiantes.
 
@@ -44,25 +44,41 @@ Ingeniero en Tecnologías de la Información apasionado por el desarrollo de sof
 
 ## 💻 Tech Stack
 
-### 🚀 Lenguajes & Frameworks
+### 🚀 Lenguajes & Frameworks Backend
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### 🎨 Frontend & Frameworks Web
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 
-### 📱 Móvil & Servicios Cloud / IoT
+### 📱 Desarrollo Móvil
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-### 🗄️ Bases de Datos
+### 🗄️ Bases de Datos & Cloud
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### 🛠️ Herramientas, Control de Versiones & Hardware
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-000000?style=for-the-badge&logo=putty&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### 🎨 UI/UX & Diseño
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
