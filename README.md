@@ -1,19 +1,29 @@
 # 💫 About Me
 
 👋 **¡Hola! Soy Ing. David Morales**  
-Ingeniero en Tecnologías de la Información apasionado por el desarrollo de software y la resolución de problemas complejos.
+Ingeniero en Tecnologías de la Información apasionado por el desarrollo de software, la creación de aplicaciones móviles y la resolución de problemas complejos.
 
-* 📱 **Desarrollador Móvil:** Cuento con cuenta activa de desarrollador en Google Play Store con múltiples aplicaciones Android publicadas.
+* 📱 **Desarrollador Android:** Cuento con un catálogo de aplicaciones publicadas en Google Play Store.
 * 💻 **Especialista Backend & Desktop:** Enfocado principalmente en el ecosistema **Java** y **C# / .NET**.
-* 🎯 **Intereses Principales:** Desarrollo Web, Desarrollo Móvil (Android), Aplicaciones de Escritorio, Inteligencia Artificial e Internet de las Cosas (IoT).
-* 🚀 **En constante aprendizaje:** Con mentalidad de crecimiento, siempre buscando adaptarme rápidamente a nuevas tecnologías y colaborar en proyectos desafiantes.
+* 🎯 **Intereses Principales:** Desarrollo Web, Aplicaciones Móviles, Software de Escritorio, Inteligencia Artificial e Internet de las Cosas (IoT).
+* 🚀 **En constante aprendizaje:** Con mentalidad de crecimiento, orientado al trabajo colaborativo y buscando aportar valor en proyectos desafiantes.
 
 📫 **¿Te interesa colaborar o conocer más sobre mi trabajo?** ¡Conéctate conmigo!
 
 ---
 
+## 📱 Publicaciones en Google Play
+
+<a href="https://play.google.com/store/apps/dev?id=6879859713775583628&hl=es_MX" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Play-Ver_Mis_Aplicaciones-412991?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Developer Page" />
+</a>
+
+> 💡 *Haz clic en el botón de arriba para explorar mis aplicaciones Android publicadas en la tienda oficial.*
+
+---
+
 ## 🌐 Contacto & Redes
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/daviiddanger)
+[![Google Play](https://img.shields.io/badge/Google%20Play-412991?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6879859713775583628&hl=es_MX)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@TrAndroid)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Tr-Android#2525)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/daviid_danger)
@@ -34,7 +44,8 @@ Ingeniero en Tecnologías de la Información apasionado por el desarrollo de sof
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 
-### 📱 Móvil & Backend Services
+### 📱 Móvil & Servicios Cloud / IoT
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
