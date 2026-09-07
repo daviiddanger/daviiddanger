@@ -102,17 +102,17 @@ Ingeniero en Tecnologías de la Información apasionado por el desarrollo de sof
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daviiddanger&theme=tokyonight&show_icons=true&hide_border=false" alt="David's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daviiddanger&theme=tokyonight&hide_border=false" alt="David's Streak Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=daviiddanger&theme=tokyonight&show_icons=true" alt="David's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daviiddanger&theme=tokyonight" alt="David's Streak Stats" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviiddanger&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daviiddanger&theme=tokyonight&layout=compact" alt="Top Languages" width="60%" />
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daviiddanger&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=daviiddanger&theme=dark_dimmed&no-frame=false&no-bg=true" alt="Trophies" />
 </p>
 
 ---
